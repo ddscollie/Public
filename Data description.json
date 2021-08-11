@@ -1,8 +1,8 @@
 {
-	"file": "https://github.com/ddscollie/Public.git/UpSet data.csv",
+	"file": "https://github.com/ddscollie/Public.git/UpSet_data.csv",
 	"name": "ex vs in vivo",
 	"header": 0,
-	"separator": ",",
+	"separator": ";",
 	"skip": 0,
 	"meta": [
 		{ "type": "id", "index": 0, "name": "ProbeID" }
