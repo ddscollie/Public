@@ -1,5 +1,5 @@
 {
-	"file": "http://vcg.github.io/upset/data/test/ddsctest.csv",
+	"file": "https://raw.githubusercontent.com/ddscollie/Public/main/ddsctest.csv",
 	"name": "ddsctest",
 	"header": 0,
 	"separator": ";",
